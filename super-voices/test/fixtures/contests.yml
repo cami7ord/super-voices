@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  picture: MyString
+  url: MyString
+  start: 2017-02-21
+  end: 2017-02-21
+  payment: 9.99
+  script: MyText
+  guidelines: MyText
+
+two:
+  name: MyString
+  picture: MyString
+  url: MyString
+  start: 2017-02-21
+  end: 2017-02-21
+  payment: 9.99
+  script: MyText
+  guidelines: MyText
